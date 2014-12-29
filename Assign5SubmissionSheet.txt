@@ -1,0 +1,60 @@
+CS 0401 Assignment Information Sheet
+ 
+You must submit an information sheet with every assignment. Also be sure to submit all materials following the procedures described on the submission procedures page.
+
+Name:___________John McQuown______ Assignment #: __5__
+
+Lab Day and Time: _______Tuesday 1:00-2:50_____
+
+Lab Instructor: ____Alex Glyde____
+
+Program Due Date: ________12/02/14____
+
+Handed in Date: _____12/05/14_____ 
+
+Source code file name(s):
+
+__Assig5.java, MyShape.java, MyText.java, Cloud.java, Cabin.java, Greeting.java, Ornament.java, Snowflake.java, Tree.java_____
+
+Compiled (.class) file name(s) : 
+
+____Assig5.class, MyShape.class, MyText.class, Cloud.class, Cabin.class, Greeting.class, Ornament.class, Snowflake.class, Tree.class_____
+
+Other file name(s) (if relevant): ______________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program compile without error?: _____Yes____ 
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: ___Yes___ 
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+___Extra Credit: The Save As JPG in the File Menu works __
+
+___Problems: Could not get the Open method to work. Also the shapes overlap is not done correctly.____
+
+________________________________________________________________
+ 
+________________________________________________________________
+ 
